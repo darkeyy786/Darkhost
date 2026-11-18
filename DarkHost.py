@@ -45,9 +45,9 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration FROM .env FILE ---
-TOKEN = os.getenv('TOKEN', '8695646805:AAFuAmqrIsZV_zHN1tnmK1uI8RB2ReUxE_g')
-OWNER_ID = int(os.getenv('OWNER_ID', 5464634575))
-ADMIN_ID = int(os.getenv('ADMIN_ID', 5464634575))
+TOKEN = os.getenv('TOKEN', '8921360955:AAF__dhrHpcExWiyWmB4s_YbAlYicYZi2Tg')
+OWNER_ID = int(os.getenv('OWNER_ID', 7126998744))
+ADMIN_ID = int(os.getenv('ADMIN_ID', 7126998744))
 YOUR_USERNAME = os.getenv('YOUR_USERNAME', 'Darkeyy0')
 UPDATE_CHANNEL = os.getenv('UPDATE_CHANNEL', 'https://t.me/DarkHostSite')
 
